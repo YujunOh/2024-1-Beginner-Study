@@ -59,3 +59,5 @@ git add <파일명>
 git commit -m "commit message"
 git push origin main
 
+실습 Repository 링크 : 
+<https://github.com/YujunOh/YujunOh>
